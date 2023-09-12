@@ -18,11 +18,11 @@ namespace Exercicio001 {
             // EXEMPLO DE SAÍDA DE DADOS COM PLACEHOLDERS, USANDO string.Format()
             string mensagem1 = string.Format("Produtos:\n{0}, cujo preço é $ {1}\n{2}, cujo preço é $ {3}", produto1, preco1, produto2, preco2);
             Console.WriteLine(mensagem1);
-
+            Console.WriteLine();
             // EXEMPLO DE SAÍDA DE DADOS COM CONCATENAÇÃO
             string mensagem2 = "Registro: " + idade + " anos de idade, código " + codigo + " e gênero: " + genero;
             Console.WriteLine(mensagem2);
-
+            Console.WriteLine();
             // EXEMPLO DE SAÍDA DE DADOS COM INTERPOLAÇÃO
             // Exemplo do uso do CultureInfo.InvariantCulture para imprimir a variavel medida com os numeros
             // usando a formatação '##.##' sem o uso da virgula como é o padrão da formatação 'pt-BR'

@@ -1,0 +1,15 @@
+C:\Users\tarci\Documents\Projetos\aprendendo-csharp\Exercicio006\Exercicio006\obj\Debug\net6.0\Exercicio006.csproj.AssemblyReference.cache
+C:\Users\tarci\Documents\Projetos\aprendendo-csharp\Exercicio006\Exercicio006\obj\Debug\net6.0\Exercicio006.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarci\Documents\Projetos\aprendendo-csharp\Exercicio006\Exercicio006\obj\Debug\net6.0\Exercicio006.AssemblyInfoInputs.cache
+C:\Users\tarci\Documents\Projetos\aprendendo-csharp\Exercicio006\Exercicio006\obj\Debug\net6.0\Exercicio006.AssemblyInfo.cs
+C:\Users\tarci\Documents\Projetos\aprendendo-csharp\Exercicio006\Exercicio006\obj\Debug\net6.0\Exercicio006.csproj.CoreCompileInputs.cache
+C:\Users\tarci\Documents\Projetos\aprendendo-csharp\Exercicio006\Exercicio006\bin\Debug\net6.0\Exercicio006.exe
+C:\Users\tarci\Documents\Projetos\aprendendo-csharp\Exercicio006\Exercicio006\bin\Debug\net6.0\Exercicio006.deps.json
+C:\Users\tarci\Documents\Projetos\aprendendo-csharp\Exercicio006\Exercicio006\bin\Debug\net6.0\Exercicio006.runtimeconfig.json
+C:\Users\tarci\Documents\Projetos\aprendendo-csharp\Exercicio006\Exercicio006\bin\Debug\net6.0\Exercicio006.dll
+C:\Users\tarci\Documents\Projetos\aprendendo-csharp\Exercicio006\Exercicio006\bin\Debug\net6.0\Exercicio006.pdb
+C:\Users\tarci\Documents\Projetos\aprendendo-csharp\Exercicio006\Exercicio006\obj\Debug\net6.0\Exercicio006.dll
+C:\Users\tarci\Documents\Projetos\aprendendo-csharp\Exercicio006\Exercicio006\obj\Debug\net6.0\refint\Exercicio006.dll
+C:\Users\tarci\Documents\Projetos\aprendendo-csharp\Exercicio006\Exercicio006\obj\Debug\net6.0\Exercicio006.pdb
+C:\Users\tarci\Documents\Projetos\aprendendo-csharp\Exercicio006\Exercicio006\obj\Debug\net6.0\Exercicio006.genruntimeconfig.cache
+C:\Users\tarci\Documents\Projetos\aprendendo-csharp\Exercicio006\Exercicio006\obj\Debug\net6.0\ref\Exercicio006.dll
