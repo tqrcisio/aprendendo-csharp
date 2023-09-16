@@ -1,0 +1,15 @@
+C:\Users\tarci\Documents\Projetos\aprendendo-csharp\EstruturaCondicional-IfElse\EstruturaCondicional-IfElse\bin\Debug\net6.0\EstruturaCondicional-IfElse.exe
+C:\Users\tarci\Documents\Projetos\aprendendo-csharp\EstruturaCondicional-IfElse\EstruturaCondicional-IfElse\bin\Debug\net6.0\EstruturaCondicional-IfElse.deps.json
+C:\Users\tarci\Documents\Projetos\aprendendo-csharp\EstruturaCondicional-IfElse\EstruturaCondicional-IfElse\bin\Debug\net6.0\EstruturaCondicional-IfElse.runtimeconfig.json
+C:\Users\tarci\Documents\Projetos\aprendendo-csharp\EstruturaCondicional-IfElse\EstruturaCondicional-IfElse\bin\Debug\net6.0\EstruturaCondicional-IfElse.dll
+C:\Users\tarci\Documents\Projetos\aprendendo-csharp\EstruturaCondicional-IfElse\EstruturaCondicional-IfElse\bin\Debug\net6.0\EstruturaCondicional-IfElse.pdb
+C:\Users\tarci\Documents\Projetos\aprendendo-csharp\EstruturaCondicional-IfElse\EstruturaCondicional-IfElse\obj\Debug\net6.0\EstruturaCondicional-IfElse.csproj.AssemblyReference.cache
+C:\Users\tarci\Documents\Projetos\aprendendo-csharp\EstruturaCondicional-IfElse\EstruturaCondicional-IfElse\obj\Debug\net6.0\EstruturaCondicional-IfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarci\Documents\Projetos\aprendendo-csharp\EstruturaCondicional-IfElse\EstruturaCondicional-IfElse\obj\Debug\net6.0\EstruturaCondicional-IfElse.AssemblyInfoInputs.cache
+C:\Users\tarci\Documents\Projetos\aprendendo-csharp\EstruturaCondicional-IfElse\EstruturaCondicional-IfElse\obj\Debug\net6.0\EstruturaCondicional-IfElse.AssemblyInfo.cs
+C:\Users\tarci\Documents\Projetos\aprendendo-csharp\EstruturaCondicional-IfElse\EstruturaCondicional-IfElse\obj\Debug\net6.0\EstruturaCondicional-IfElse.csproj.CoreCompileInputs.cache
+C:\Users\tarci\Documents\Projetos\aprendendo-csharp\EstruturaCondicional-IfElse\EstruturaCondicional-IfElse\obj\Debug\net6.0\EstruturaCondicional-IfElse.dll
+C:\Users\tarci\Documents\Projetos\aprendendo-csharp\EstruturaCondicional-IfElse\EstruturaCondicional-IfElse\obj\Debug\net6.0\refint\EstruturaCondicional-IfElse.dll
+C:\Users\tarci\Documents\Projetos\aprendendo-csharp\EstruturaCondicional-IfElse\EstruturaCondicional-IfElse\obj\Debug\net6.0\EstruturaCondicional-IfElse.pdb
+C:\Users\tarci\Documents\Projetos\aprendendo-csharp\EstruturaCondicional-IfElse\EstruturaCondicional-IfElse\obj\Debug\net6.0\EstruturaCondicional-IfElse.genruntimeconfig.cache
+C:\Users\tarci\Documents\Projetos\aprendendo-csharp\EstruturaCondicional-IfElse\EstruturaCondicional-IfElse\obj\Debug\net6.0\ref\EstruturaCondicional-IfElse.dll

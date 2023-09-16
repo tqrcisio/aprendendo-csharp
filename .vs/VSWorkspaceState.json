@@ -1,8 +1,6 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Exercicio005",
-    "\\Exercicio005\\Exercicio005",
     "\\Exercicio006",
     "\\Exercicio006\\Exercicio006",
     "\\Exercicio007",
@@ -10,8 +8,10 @@
     "\\Exercicio008",
     "\\Exercicio008\\Exercicio008",
     "\\Exercicio009",
-    "\\Exercicio009\\Exercicio009"
+    "\\Exercicio009\\Exercicio009",
+    "\\Exercicio010",
+    "\\Exercicio010\\Exercicio010"
   ],
-  "SelectedNode": "\\Exercicio009\\Exercicio009\\obj",
+  "SelectedNode": "\\Exercicio010\\Exercicio010\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
