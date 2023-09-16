@@ -1,17 +1,17 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Exercicio001",
-    "\\Exercicio001\\Exercicio001",
-    "\\Exercicio001\\Exercicio001\\obj",
-    "\\Exercicio001\\Exercicio001\\obj\\Debug",
-    "\\Exercicio002",
-    "\\Exercicio002\\Exercicio002",
     "\\Exercicio005",
     "\\Exercicio005\\Exercicio005",
     "\\Exercicio006",
-    "\\Exercicio006\\Exercicio006"
+    "\\Exercicio006\\Exercicio006",
+    "\\Exercicio007",
+    "\\Exercicio007\\Exercicio007",
+    "\\Exercicio008",
+    "\\Exercicio008\\Exercicio008",
+    "\\Exercicio009",
+    "\\Exercicio009\\Exercicio009"
   ],
-  "SelectedNode": "\\Exercicio002\\Exercicio002\\Program.cs",
+  "SelectedNode": "\\Exercicio009\\Exercicio009\\obj",
   "PreviewInSolutionExplorer": false
 }

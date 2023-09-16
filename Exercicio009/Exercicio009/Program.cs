@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace Exercicio006 {
+namespace Exercicio009 {
     class Program {
         static void Main(string[] args) {
             Console.Write("1 - Digite os dados no seguinte formato: codigo;numPecas;valorUnit: ");
@@ -12,6 +12,9 @@ namespace Exercicio006 {
             double subTotal2 = double.Parse(produto2[2]) * double.Parse(produto2[1]);
             double total =  subTotal1 + subTotal2;
             Console.WriteLine($"Valor a pagar: R$ {total}");
+            Console.WriteLine("    Toque em qualquer tecla para fechar...");
+            Console.ReadKey();
+            
         }
     }
 }
