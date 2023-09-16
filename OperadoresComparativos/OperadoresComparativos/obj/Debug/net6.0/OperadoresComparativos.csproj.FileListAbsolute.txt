@@ -1,0 +1,15 @@
+C:\Users\tarci\Documents\Projetos\aprendendo-csharp\OperadoresComparativos\OperadoresComparativos\bin\Debug\net6.0\OperadoresComparativos.exe
+C:\Users\tarci\Documents\Projetos\aprendendo-csharp\OperadoresComparativos\OperadoresComparativos\bin\Debug\net6.0\OperadoresComparativos.deps.json
+C:\Users\tarci\Documents\Projetos\aprendendo-csharp\OperadoresComparativos\OperadoresComparativos\bin\Debug\net6.0\OperadoresComparativos.runtimeconfig.json
+C:\Users\tarci\Documents\Projetos\aprendendo-csharp\OperadoresComparativos\OperadoresComparativos\bin\Debug\net6.0\OperadoresComparativos.dll
+C:\Users\tarci\Documents\Projetos\aprendendo-csharp\OperadoresComparativos\OperadoresComparativos\bin\Debug\net6.0\OperadoresComparativos.pdb
+C:\Users\tarci\Documents\Projetos\aprendendo-csharp\OperadoresComparativos\OperadoresComparativos\obj\Debug\net6.0\OperadoresComparativos.csproj.AssemblyReference.cache
+C:\Users\tarci\Documents\Projetos\aprendendo-csharp\OperadoresComparativos\OperadoresComparativos\obj\Debug\net6.0\OperadoresComparativos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarci\Documents\Projetos\aprendendo-csharp\OperadoresComparativos\OperadoresComparativos\obj\Debug\net6.0\OperadoresComparativos.AssemblyInfoInputs.cache
+C:\Users\tarci\Documents\Projetos\aprendendo-csharp\OperadoresComparativos\OperadoresComparativos\obj\Debug\net6.0\OperadoresComparativos.AssemblyInfo.cs
+C:\Users\tarci\Documents\Projetos\aprendendo-csharp\OperadoresComparativos\OperadoresComparativos\obj\Debug\net6.0\OperadoresComparativos.csproj.CoreCompileInputs.cache
+C:\Users\tarci\Documents\Projetos\aprendendo-csharp\OperadoresComparativos\OperadoresComparativos\obj\Debug\net6.0\OperadoresComparativos.dll
+C:\Users\tarci\Documents\Projetos\aprendendo-csharp\OperadoresComparativos\OperadoresComparativos\obj\Debug\net6.0\refint\OperadoresComparativos.dll
+C:\Users\tarci\Documents\Projetos\aprendendo-csharp\OperadoresComparativos\OperadoresComparativos\obj\Debug\net6.0\OperadoresComparativos.pdb
+C:\Users\tarci\Documents\Projetos\aprendendo-csharp\OperadoresComparativos\OperadoresComparativos\obj\Debug\net6.0\OperadoresComparativos.genruntimeconfig.cache
+C:\Users\tarci\Documents\Projetos\aprendendo-csharp\OperadoresComparativos\OperadoresComparativos\obj\Debug\net6.0\ref\OperadoresComparativos.dll
