@@ -1,0 +1,15 @@
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\6-For\6-For\bin\Debug\net6.0\6-For.exe
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\6-For\6-For\bin\Debug\net6.0\6-For.deps.json
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\6-For\6-For\bin\Debug\net6.0\6-For.runtimeconfig.json
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\6-For\6-For\bin\Debug\net6.0\6-For.dll
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\6-For\6-For\bin\Debug\net6.0\6-For.pdb
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\6-For\6-For\obj\Debug\net6.0\6-For.csproj.AssemblyReference.cache
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\6-For\6-For\obj\Debug\net6.0\6-For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\6-For\6-For\obj\Debug\net6.0\6-For.AssemblyInfoInputs.cache
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\6-For\6-For\obj\Debug\net6.0\6-For.AssemblyInfo.cs
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\6-For\6-For\obj\Debug\net6.0\6-For.csproj.CoreCompileInputs.cache
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\6-For\6-For\obj\Debug\net6.0\6-For.dll
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\6-For\6-For\obj\Debug\net6.0\refint\6-For.dll
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\6-For\6-For\obj\Debug\net6.0\6-For.pdb
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\6-For\6-For\obj\Debug\net6.0\6-For.genruntimeconfig.cache
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\6-For\6-For\obj\Debug\net6.0\ref\6-For.dll
