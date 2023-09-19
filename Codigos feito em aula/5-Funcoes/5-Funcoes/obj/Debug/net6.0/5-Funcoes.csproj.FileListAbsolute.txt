@@ -1,0 +1,15 @@
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\5-Funcoes\5-Funcoes\bin\Debug\net6.0\5-Funcoes.exe
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\5-Funcoes\5-Funcoes\bin\Debug\net6.0\5-Funcoes.deps.json
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\5-Funcoes\5-Funcoes\bin\Debug\net6.0\5-Funcoes.runtimeconfig.json
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\5-Funcoes\5-Funcoes\bin\Debug\net6.0\5-Funcoes.dll
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\5-Funcoes\5-Funcoes\bin\Debug\net6.0\5-Funcoes.pdb
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\5-Funcoes\5-Funcoes\obj\Debug\net6.0\5-Funcoes.csproj.AssemblyReference.cache
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\5-Funcoes\5-Funcoes\obj\Debug\net6.0\5-Funcoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\5-Funcoes\5-Funcoes\obj\Debug\net6.0\5-Funcoes.AssemblyInfoInputs.cache
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\5-Funcoes\5-Funcoes\obj\Debug\net6.0\5-Funcoes.AssemblyInfo.cs
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\5-Funcoes\5-Funcoes\obj\Debug\net6.0\5-Funcoes.csproj.CoreCompileInputs.cache
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\5-Funcoes\5-Funcoes\obj\Debug\net6.0\5-Funcoes.dll
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\5-Funcoes\5-Funcoes\obj\Debug\net6.0\refint\5-Funcoes.dll
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\5-Funcoes\5-Funcoes\obj\Debug\net6.0\5-Funcoes.pdb
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\5-Funcoes\5-Funcoes\obj\Debug\net6.0\5-Funcoes.genruntimeconfig.cache
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\5-Funcoes\5-Funcoes\obj\Debug\net6.0\ref\5-Funcoes.dll

@@ -1,0 +1,15 @@
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Estrutura While\Ex003\Ex003\bin\Debug\net6.0\Ex003.exe
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Estrutura While\Ex003\Ex003\bin\Debug\net6.0\Ex003.deps.json
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Estrutura While\Ex003\Ex003\bin\Debug\net6.0\Ex003.runtimeconfig.json
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Estrutura While\Ex003\Ex003\bin\Debug\net6.0\Ex003.dll
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Estrutura While\Ex003\Ex003\bin\Debug\net6.0\Ex003.pdb
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Estrutura While\Ex003\Ex003\obj\Debug\net6.0\Ex003.csproj.AssemblyReference.cache
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Estrutura While\Ex003\Ex003\obj\Debug\net6.0\Ex003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Estrutura While\Ex003\Ex003\obj\Debug\net6.0\Ex003.AssemblyInfoInputs.cache
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Estrutura While\Ex003\Ex003\obj\Debug\net6.0\Ex003.AssemblyInfo.cs
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Estrutura While\Ex003\Ex003\obj\Debug\net6.0\Ex003.csproj.CoreCompileInputs.cache
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Estrutura While\Ex003\Ex003\obj\Debug\net6.0\Ex003.dll
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Estrutura While\Ex003\Ex003\obj\Debug\net6.0\refint\Ex003.dll
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Estrutura While\Ex003\Ex003\obj\Debug\net6.0\Ex003.pdb
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Estrutura While\Ex003\Ex003\obj\Debug\net6.0\Ex003.genruntimeconfig.cache
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Estrutura While\Ex003\Ex003\obj\Debug\net6.0\ref\Ex003.dll

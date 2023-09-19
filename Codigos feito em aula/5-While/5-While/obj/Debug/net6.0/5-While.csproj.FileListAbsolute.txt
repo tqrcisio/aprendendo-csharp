@@ -1,0 +1,15 @@
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\5-While\5-While\bin\Debug\net6.0\5-While.exe
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\5-While\5-While\bin\Debug\net6.0\5-While.deps.json
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\5-While\5-While\bin\Debug\net6.0\5-While.runtimeconfig.json
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\5-While\5-While\bin\Debug\net6.0\5-While.dll
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\5-While\5-While\bin\Debug\net6.0\5-While.pdb
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\5-While\5-While\obj\Debug\net6.0\5-While.csproj.AssemblyReference.cache
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\5-While\5-While\obj\Debug\net6.0\5-While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\5-While\5-While\obj\Debug\net6.0\5-While.AssemblyInfoInputs.cache
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\5-While\5-While\obj\Debug\net6.0\5-While.AssemblyInfo.cs
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\5-While\5-While\obj\Debug\net6.0\5-While.csproj.CoreCompileInputs.cache
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\5-While\5-While\obj\Debug\net6.0\5-While.dll
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\5-While\5-While\obj\Debug\net6.0\refint\5-While.dll
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\5-While\5-While\obj\Debug\net6.0\5-While.pdb
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\5-While\5-While\obj\Debug\net6.0\5-While.genruntimeconfig.cache
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\5-While\5-While\obj\Debug\net6.0\ref\5-While.dll
