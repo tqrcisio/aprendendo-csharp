@@ -1,0 +1,14 @@
+C:\Users\tarci\OneDrive\Documentos\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao2\ProdutoEntradaSaida\ProdutoEntradaSaida\bin\Debug\net7.0\ProdutoEntradaSaida.exe
+C:\Users\tarci\OneDrive\Documentos\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao2\ProdutoEntradaSaida\ProdutoEntradaSaida\bin\Debug\net7.0\ProdutoEntradaSaida.deps.json
+C:\Users\tarci\OneDrive\Documentos\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao2\ProdutoEntradaSaida\ProdutoEntradaSaida\bin\Debug\net7.0\ProdutoEntradaSaida.runtimeconfig.json
+C:\Users\tarci\OneDrive\Documentos\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao2\ProdutoEntradaSaida\ProdutoEntradaSaida\bin\Debug\net7.0\ProdutoEntradaSaida.dll
+C:\Users\tarci\OneDrive\Documentos\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao2\ProdutoEntradaSaida\ProdutoEntradaSaida\bin\Debug\net7.0\ProdutoEntradaSaida.pdb
+C:\Users\tarci\OneDrive\Documentos\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao2\ProdutoEntradaSaida\ProdutoEntradaSaida\obj\Debug\net7.0\ProdutoEntradaSaida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarci\OneDrive\Documentos\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao2\ProdutoEntradaSaida\ProdutoEntradaSaida\obj\Debug\net7.0\ProdutoEntradaSaida.AssemblyInfoInputs.cache
+C:\Users\tarci\OneDrive\Documentos\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao2\ProdutoEntradaSaida\ProdutoEntradaSaida\obj\Debug\net7.0\ProdutoEntradaSaida.AssemblyInfo.cs
+C:\Users\tarci\OneDrive\Documentos\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao2\ProdutoEntradaSaida\ProdutoEntradaSaida\obj\Debug\net7.0\ProdutoEntradaSaida.csproj.CoreCompileInputs.cache
+C:\Users\tarci\OneDrive\Documentos\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao2\ProdutoEntradaSaida\ProdutoEntradaSaida\obj\Debug\net7.0\ProdutoEntradaSaida.dll
+C:\Users\tarci\OneDrive\Documentos\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao2\ProdutoEntradaSaida\ProdutoEntradaSaida\obj\Debug\net7.0\refint\ProdutoEntradaSaida.dll
+C:\Users\tarci\OneDrive\Documentos\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao2\ProdutoEntradaSaida\ProdutoEntradaSaida\obj\Debug\net7.0\ProdutoEntradaSaida.pdb
+C:\Users\tarci\OneDrive\Documentos\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao2\ProdutoEntradaSaida\ProdutoEntradaSaida\obj\Debug\net7.0\ProdutoEntradaSaida.genruntimeconfig.cache
+C:\Users\tarci\OneDrive\Documentos\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao2\ProdutoEntradaSaida\ProdutoEntradaSaida\obj\Debug\net7.0\ref\ProdutoEntradaSaida.dll

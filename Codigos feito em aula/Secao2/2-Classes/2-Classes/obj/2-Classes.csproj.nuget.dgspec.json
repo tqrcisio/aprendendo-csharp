@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tarci\\Documents\\Side Projects\\aprendendo-csharp\\Codigos feito em aula\\Secao2\\2-Classes\\2-Classes\\2-Classes.csproj": {}
+    "C:\\Users\\tarci\\OneDrive\\Documentos\\Side Projects\\aprendendo-csharp\\Codigos feito em aula\\Secao2\\2-Classes\\2-Classes\\2-Classes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tarci\\Documents\\Side Projects\\aprendendo-csharp\\Codigos feito em aula\\Secao2\\2-Classes\\2-Classes\\2-Classes.csproj": {
+    "C:\\Users\\tarci\\OneDrive\\Documentos\\Side Projects\\aprendendo-csharp\\Codigos feito em aula\\Secao2\\2-Classes\\2-Classes\\2-Classes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tarci\\Documents\\Side Projects\\aprendendo-csharp\\Codigos feito em aula\\Secao2\\2-Classes\\2-Classes\\2-Classes.csproj",
+        "projectUniqueName": "C:\\Users\\tarci\\OneDrive\\Documentos\\Side Projects\\aprendendo-csharp\\Codigos feito em aula\\Secao2\\2-Classes\\2-Classes\\2-Classes.csproj",
         "projectName": "2-Classes",
-        "projectPath": "C:\\Users\\tarci\\Documents\\Side Projects\\aprendendo-csharp\\Codigos feito em aula\\Secao2\\2-Classes\\2-Classes\\2-Classes.csproj",
+        "projectPath": "C:\\Users\\tarci\\OneDrive\\Documentos\\Side Projects\\aprendendo-csharp\\Codigos feito em aula\\Secao2\\2-Classes\\2-Classes\\2-Classes.csproj",
         "packagesPath": "C:\\Users\\tarci\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tarci\\Documents\\Side Projects\\aprendendo-csharp\\Codigos feito em aula\\Secao2\\2-Classes\\2-Classes\\obj\\",
+        "outputPath": "C:\\Users\\tarci\\OneDrive\\Documentos\\Side Projects\\aprendendo-csharp\\Codigos feito em aula\\Secao2\\2-Classes\\2-Classes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -60,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

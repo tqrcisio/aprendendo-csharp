@@ -13,3 +13,17 @@ C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\S
 C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao2\2-Classes\2-Classes\obj\Debug\net6.0\2-Classes.pdb
 C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao2\2-Classes\2-Classes\obj\Debug\net6.0\2-Classes.genruntimeconfig.cache
 C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao2\2-Classes\2-Classes\obj\Debug\net6.0\ref\2-Classes.dll
+C:\Users\tarci\OneDrive\Documentos\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao2\2-Classes\2-Classes\bin\Debug\net6.0\2-Classes.exe
+C:\Users\tarci\OneDrive\Documentos\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao2\2-Classes\2-Classes\bin\Debug\net6.0\2-Classes.deps.json
+C:\Users\tarci\OneDrive\Documentos\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao2\2-Classes\2-Classes\bin\Debug\net6.0\2-Classes.runtimeconfig.json
+C:\Users\tarci\OneDrive\Documentos\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao2\2-Classes\2-Classes\bin\Debug\net6.0\2-Classes.dll
+C:\Users\tarci\OneDrive\Documentos\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao2\2-Classes\2-Classes\bin\Debug\net6.0\2-Classes.pdb
+C:\Users\tarci\OneDrive\Documentos\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao2\2-Classes\2-Classes\obj\Debug\net6.0\2-Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarci\OneDrive\Documentos\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao2\2-Classes\2-Classes\obj\Debug\net6.0\2-Classes.AssemblyInfoInputs.cache
+C:\Users\tarci\OneDrive\Documentos\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao2\2-Classes\2-Classes\obj\Debug\net6.0\2-Classes.AssemblyInfo.cs
+C:\Users\tarci\OneDrive\Documentos\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao2\2-Classes\2-Classes\obj\Debug\net6.0\2-Classes.csproj.CoreCompileInputs.cache
+C:\Users\tarci\OneDrive\Documentos\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao2\2-Classes\2-Classes\obj\Debug\net6.0\2-Classes.dll
+C:\Users\tarci\OneDrive\Documentos\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao2\2-Classes\2-Classes\obj\Debug\net6.0\refint\2-Classes.dll
+C:\Users\tarci\OneDrive\Documentos\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao2\2-Classes\2-Classes\obj\Debug\net6.0\2-Classes.pdb
+C:\Users\tarci\OneDrive\Documentos\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao2\2-Classes\2-Classes\obj\Debug\net6.0\2-Classes.genruntimeconfig.cache
+C:\Users\tarci\OneDrive\Documentos\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao2\2-Classes\2-Classes\obj\Debug\net6.0\ref\2-Classes.dll
