@@ -1,0 +1,15 @@
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao2\1-ProblemNoPOO\1-ProblemNoPOO\bin\Debug\net6.0\1-ProblemNoPOO.exe
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao2\1-ProblemNoPOO\1-ProblemNoPOO\bin\Debug\net6.0\1-ProblemNoPOO.deps.json
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao2\1-ProblemNoPOO\1-ProblemNoPOO\bin\Debug\net6.0\1-ProblemNoPOO.runtimeconfig.json
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao2\1-ProblemNoPOO\1-ProblemNoPOO\bin\Debug\net6.0\1-ProblemNoPOO.dll
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao2\1-ProblemNoPOO\1-ProblemNoPOO\bin\Debug\net6.0\1-ProblemNoPOO.pdb
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao2\1-ProblemNoPOO\1-ProblemNoPOO\obj\Debug\net6.0\1-ProblemNoPOO.csproj.AssemblyReference.cache
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao2\1-ProblemNoPOO\1-ProblemNoPOO\obj\Debug\net6.0\1-ProblemNoPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao2\1-ProblemNoPOO\1-ProblemNoPOO\obj\Debug\net6.0\1-ProblemNoPOO.AssemblyInfoInputs.cache
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao2\1-ProblemNoPOO\1-ProblemNoPOO\obj\Debug\net6.0\1-ProblemNoPOO.AssemblyInfo.cs
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao2\1-ProblemNoPOO\1-ProblemNoPOO\obj\Debug\net6.0\1-ProblemNoPOO.csproj.CoreCompileInputs.cache
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao2\1-ProblemNoPOO\1-ProblemNoPOO\obj\Debug\net6.0\1-ProblemNoPOO.dll
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao2\1-ProblemNoPOO\1-ProblemNoPOO\obj\Debug\net6.0\refint\1-ProblemNoPOO.dll
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao2\1-ProblemNoPOO\1-ProblemNoPOO\obj\Debug\net6.0\1-ProblemNoPOO.pdb
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao2\1-ProblemNoPOO\1-ProblemNoPOO\obj\Debug\net6.0\1-ProblemNoPOO.genruntimeconfig.cache
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao2\1-ProblemNoPOO\1-ProblemNoPOO\obj\Debug\net6.0\ref\1-ProblemNoPOO.dll
