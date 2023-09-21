@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 
 namespace ProdutoEntradaSaida {
      class Produto {
@@ -13,7 +14,11 @@ namespace ProdutoEntradaSaida {
             estoque += qtde;
         }
         public double ValorTotalEmEstoque() {
-            return estoque;
+            return estoque * preco;
+        }
+        public override string ToString() {
+            string saida = $"{nome}, $ {preco:F2},{ValorTotalEmEstoque()} unidades, Total: $ {ValorTotalEmEstoque():F2}";
+            return saida;
         }
     }
 }

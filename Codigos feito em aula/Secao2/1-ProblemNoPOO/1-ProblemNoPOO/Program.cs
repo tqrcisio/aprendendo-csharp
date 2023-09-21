@@ -4,12 +4,6 @@ using System.Globalization;
 namespace Program {
     class Program {
         static void Main(string[] args) {
-
-            Triangulo x,y;
-            
-            x = new Triangulo();
-            y = new Triangulo();
-
             Console.Write("Entre com as medidas do triangulo X: ");
             double xA = double.Parse(Console.ReadLine(),CultureInfo.InvariantCulture);
             double xB = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
