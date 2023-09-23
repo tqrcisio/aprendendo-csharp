@@ -1,0 +1,15 @@
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Exercicios\MembrosEstaticos-2\MembrosEstaticos-2\bin\Debug\net7.0\MembrosEstaticos-2.exe
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Exercicios\MembrosEstaticos-2\MembrosEstaticos-2\bin\Debug\net7.0\MembrosEstaticos-2.deps.json
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Exercicios\MembrosEstaticos-2\MembrosEstaticos-2\bin\Debug\net7.0\MembrosEstaticos-2.runtimeconfig.json
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Exercicios\MembrosEstaticos-2\MembrosEstaticos-2\bin\Debug\net7.0\MembrosEstaticos-2.dll
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Exercicios\MembrosEstaticos-2\MembrosEstaticos-2\bin\Debug\net7.0\MembrosEstaticos-2.pdb
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Exercicios\MembrosEstaticos-2\MembrosEstaticos-2\obj\Debug\net7.0\MembrosEstaticos-2.csproj.AssemblyReference.cache
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Exercicios\MembrosEstaticos-2\MembrosEstaticos-2\obj\Debug\net7.0\MembrosEstaticos-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Exercicios\MembrosEstaticos-2\MembrosEstaticos-2\obj\Debug\net7.0\MembrosEstaticos-2.AssemblyInfoInputs.cache
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Exercicios\MembrosEstaticos-2\MembrosEstaticos-2\obj\Debug\net7.0\MembrosEstaticos-2.AssemblyInfo.cs
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Exercicios\MembrosEstaticos-2\MembrosEstaticos-2\obj\Debug\net7.0\MembrosEstaticos-2.csproj.CoreCompileInputs.cache
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Exercicios\MembrosEstaticos-2\MembrosEstaticos-2\obj\Debug\net7.0\MembrosEstaticos-2.dll
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Exercicios\MembrosEstaticos-2\MembrosEstaticos-2\obj\Debug\net7.0\refint\MembrosEstaticos-2.dll
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Exercicios\MembrosEstaticos-2\MembrosEstaticos-2\obj\Debug\net7.0\MembrosEstaticos-2.pdb
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Exercicios\MembrosEstaticos-2\MembrosEstaticos-2\obj\Debug\net7.0\MembrosEstaticos-2.genruntimeconfig.cache
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Exercicios\MembrosEstaticos-2\MembrosEstaticos-2\obj\Debug\net7.0\ref\MembrosEstaticos-2.dll

@@ -1,0 +1,15 @@
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Exercicios\Exercicios POO\Ex006\Ex006\bin\Debug\net7.0\Ex006.exe
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Exercicios\Exercicios POO\Ex006\Ex006\bin\Debug\net7.0\Ex006.deps.json
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Exercicios\Exercicios POO\Ex006\Ex006\bin\Debug\net7.0\Ex006.runtimeconfig.json
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Exercicios\Exercicios POO\Ex006\Ex006\bin\Debug\net7.0\Ex006.dll
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Exercicios\Exercicios POO\Ex006\Ex006\bin\Debug\net7.0\Ex006.pdb
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Exercicios\Exercicios POO\Ex006\Ex006\obj\Debug\net7.0\Ex006.csproj.AssemblyReference.cache
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Exercicios\Exercicios POO\Ex006\Ex006\obj\Debug\net7.0\Ex006.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Exercicios\Exercicios POO\Ex006\Ex006\obj\Debug\net7.0\Ex006.AssemblyInfoInputs.cache
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Exercicios\Exercicios POO\Ex006\Ex006\obj\Debug\net7.0\Ex006.AssemblyInfo.cs
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Exercicios\Exercicios POO\Ex006\Ex006\obj\Debug\net7.0\Ex006.csproj.CoreCompileInputs.cache
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Exercicios\Exercicios POO\Ex006\Ex006\obj\Debug\net7.0\Ex006.dll
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Exercicios\Exercicios POO\Ex006\Ex006\obj\Debug\net7.0\refint\Ex006.dll
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Exercicios\Exercicios POO\Ex006\Ex006\obj\Debug\net7.0\Ex006.pdb
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Exercicios\Exercicios POO\Ex006\Ex006\obj\Debug\net7.0\Ex006.genruntimeconfig.cache
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Exercicios\Exercicios POO\Ex006\Ex006\obj\Debug\net7.0\ref\Ex006.dll
