@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructor-3 (Sobrecarga)", "Constructor-3 (Sobrecarga)\Constructor-3 (Sobrecarga).csproj", "{958A4503-C0B4-4D1C-A872-2F9EBC78AE97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{958A4503-C0B4-4D1C-A872-2F9EBC78AE97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{958A4503-C0B4-4D1C-A872-2F9EBC78AE97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{958A4503-C0B4-4D1C-A872-2F9EBC78AE97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{958A4503-C0B4-4D1C-A872-2F9EBC78AE97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79F54B03-E98E-4E28-B1FA-386440E4782B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao3-Encapsulamento\Encapsulamento-1\Encapsulamento-1\obj\Debug\net7.0\Encapsulamento-1.csproj.AssemblyReference.cache
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao3-Encapsulamento\Encapsulamento-1\Encapsulamento-1\obj\Debug\net7.0\Encapsulamento-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao3-Encapsulamento\Encapsulamento-1\Encapsulamento-1\obj\Debug\net7.0\Encapsulamento-1.AssemblyInfoInputs.cache
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao3-Encapsulamento\Encapsulamento-1\Encapsulamento-1\obj\Debug\net7.0\Encapsulamento-1.AssemblyInfo.cs
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao3-Encapsulamento\Encapsulamento-1\Encapsulamento-1\obj\Debug\net7.0\Encapsulamento-1.csproj.CoreCompileInputs.cache
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao3-Encapsulamento\Encapsulamento-1\Encapsulamento-1\bin\Debug\net7.0\Encapsulamento-1.exe
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao3-Encapsulamento\Encapsulamento-1\Encapsulamento-1\bin\Debug\net7.0\Encapsulamento-1.deps.json
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao3-Encapsulamento\Encapsulamento-1\Encapsulamento-1\bin\Debug\net7.0\Encapsulamento-1.runtimeconfig.json
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao3-Encapsulamento\Encapsulamento-1\Encapsulamento-1\bin\Debug\net7.0\Encapsulamento-1.dll
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao3-Encapsulamento\Encapsulamento-1\Encapsulamento-1\bin\Debug\net7.0\Encapsulamento-1.pdb
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao3-Encapsulamento\Encapsulamento-1\Encapsulamento-1\obj\Debug\net7.0\Encapsulamento-1.dll
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao3-Encapsulamento\Encapsulamento-1\Encapsulamento-1\obj\Debug\net7.0\refint\Encapsulamento-1.dll
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao3-Encapsulamento\Encapsulamento-1\Encapsulamento-1\obj\Debug\net7.0\Encapsulamento-1.pdb
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao3-Encapsulamento\Encapsulamento-1\Encapsulamento-1\obj\Debug\net7.0\Encapsulamento-1.genruntimeconfig.cache
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao3-Encapsulamento\Encapsulamento-1\Encapsulamento-1\obj\Debug\net7.0\ref\Encapsulamento-1.dll

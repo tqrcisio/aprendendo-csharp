@@ -1,0 +1,6 @@
+* O que são os métodos?
+	- São definições de métodos encapsulados, porém expondo uma
+sintaxe similar à de atributos e não de métodos
+
+* Por que usamos propiedades ou construtores se podemos já colocar o valor direto?
+	- Porque não basta fazer um programa que rode, temos que pensar também na segurança da aplicação, evitando manutenções no código, sempre delegando as classes as lógicas de seus próprios atributos.
