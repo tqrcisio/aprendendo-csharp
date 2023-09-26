@@ -1,0 +1,15 @@
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao3-Encapsulamento\Exerc7\Exerc7\obj\Debug\net7.0\Exerc7.csproj.AssemblyReference.cache
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao3-Encapsulamento\Exerc7\Exerc7\obj\Debug\net7.0\Exerc7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao3-Encapsulamento\Exerc7\Exerc7\obj\Debug\net7.0\Exerc7.AssemblyInfoInputs.cache
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao3-Encapsulamento\Exerc7\Exerc7\obj\Debug\net7.0\Exerc7.AssemblyInfo.cs
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao3-Encapsulamento\Exerc7\Exerc7\obj\Debug\net7.0\Exerc7.csproj.CoreCompileInputs.cache
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao3-Encapsulamento\Exerc7\Exerc7\bin\Debug\net7.0\Exerc7.exe
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao3-Encapsulamento\Exerc7\Exerc7\bin\Debug\net7.0\Exerc7.deps.json
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao3-Encapsulamento\Exerc7\Exerc7\bin\Debug\net7.0\Exerc7.runtimeconfig.json
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao3-Encapsulamento\Exerc7\Exerc7\bin\Debug\net7.0\Exerc7.dll
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao3-Encapsulamento\Exerc7\Exerc7\bin\Debug\net7.0\Exerc7.pdb
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao3-Encapsulamento\Exerc7\Exerc7\obj\Debug\net7.0\Exerc7.dll
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao3-Encapsulamento\Exerc7\Exerc7\obj\Debug\net7.0\refint\Exerc7.dll
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao3-Encapsulamento\Exerc7\Exerc7\obj\Debug\net7.0\Exerc7.pdb
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao3-Encapsulamento\Exerc7\Exerc7\obj\Debug\net7.0\Exerc7.genruntimeconfig.cache
+C:\Users\tarci\Documents\Side Projects\aprendendo-csharp\Codigos feito em aula\Secao3-Encapsulamento\Exerc7\Exerc7\obj\Debug\net7.0\ref\Exerc7.dll
